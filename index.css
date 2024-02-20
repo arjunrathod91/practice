@@ -2,12 +2,19 @@
   color:red;
   padding:20px;
 }
-.radha{
-  color:green;
-  margin:20px;
+.raju{
+    color: aqua;
+    background-color: black;
 }
+
 .karan{
   border-radius:12px;
   margin:2px;
   padding:10px;
 }
+
+.radha{
+    color:green;
+    margin:20px;
+  }
+
